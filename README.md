@@ -1,13 +1,13 @@
 # New Jersey Office of Innovation + Lab 
 *Join us if you’re excited to deliver modern services to improve the lives of all New Jerseyans!*
 
-## Current roles
-- Senior UX/UI Designers and Researchers
-- Senior Software Engineers
-- Senior Digital Product and Project Managers
-
 ## How to reach us
-Email us at [hello@innovation.nj.gov](mailto:hello@innovation.nj.gov) with your resume and let us know why you're excited to join the team! 
+Email us at [hello@innovation.nj.gov](mailto:hello@innovation.nj.gov) - we look forward to hearing from you!
+
+## Current roles
+- [Senior UX/UI Designer and Researcher](https://careers-njeda.icims.com/jobs/1398/ux-ui-designer/job)
+- [Senior Software Engineer](https://careers-njeda.icims.com/jobs/1397/software-engineer/job)
+- [Senior Digital Product and Project Manager](https://careers-njeda.icims.com/jobs/1399/digital-product-manger/job)
 
 ## About us
 We launched the [New Jersey State Office of Innovation](https://nj.gov/governor/news/news/562018/approved/20180813a.shtml) and Lab in 2018 to build and deliver better services for the people of the state using human-centered, data-driven, and agile practices. Our team is made up of dedicated and energetic individuals with experience in civic tech and policy. We are passionate about transforming the way government operates, and we support State agencies in innovating and improving the lives of all New Jerseyans.
@@ -36,7 +36,7 @@ In your role, you will immediately join one of our project teams to shape our un
 
 ## Roles
 
-### UX/UI Designer and Researcher Role
+### UX/UI Designer and Researcher Roles
 An experienced, nimble UX/UI designer and data-savvy researcher who is ready to roll up sleeves and run different parts of the design process. The designer will lead end-to-end research planning and execution using modern practices and tools to arrive at key insights and solutions that can be iteratively developed by the team and tested with users. As a part of the team, the designer will:
 - Lead the end-to-end human-centered design and research process for a key project
 - Work with stakeholders to define the problem and create + execute a research plan 
@@ -44,8 +44,7 @@ An experienced, nimble UX/UI designer and data-savvy researcher who is ready to 
 - Design visual aids such as mockups and wireframes of varying fidelity to share with team members, stakeholders and users
 - Work closely with developers to bring designs to life and iteratively improve solutions
 
-### Software Engineering Role
-
+### Software Engineering Roles
 A senior back-end and/or front-end software development engineer who can translate a concept into initial solutions for users. We are seeking software engineers with experience using modern languages and practices who are comfortable working in a startup environment where they will be involved in all aspects of software development. As part of the team, the engineer will:
 - Lead the development and delivery of modern solutions that meet the needs of users for a key project
 - Work with designers and the team to translate findings and designs into product
@@ -55,8 +54,7 @@ A senior back-end and/or front-end software development engineer who can transla
 - Provide counsel on technical matters in plain English to our team and stakeholders
 - Coordinate and work with in-house technical teams in agencies, including those who support legacy systems, to execute on development projects
 
-### Digital Product and Project Manager Role
-
+### Digital Product and Project Manager Roles
 A senior digital product and project manager who excels at leading cross-functional teams using data-driven decision making, human-centered design, agile methodologies, and modern practices. As part of the team, the digital product manager will:
 - Lead end-to-end product and project management activities to enable the delivery of modern solutions that meet the needs of users for a key project
 - Establish the project environment necessary to operate as a high performing cross-functional team in partnership with stakeholders
@@ -68,10 +66,8 @@ A senior digital product and project manager who excels at leading cross-functio
 
 
 ## Eligibility
-
 You must be authorized to work in the United States. Candidates may be required to pass a background check and complete additional  steps as part of the application and onboarding process.
 
 
 ## We are an equal opportunity employer. 
-
 We don't discriminate based on race, color, religion, sex, gender identity or expression, national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factors.
