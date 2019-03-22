@@ -18,7 +18,7 @@ We encourage you to apply if you are excited to be an early member of our Lab wh
 
 ## Joining our team
 
-If you are a senior UX/UI designer, software engineer, or digital product/project manager with significant hands-on experience delivering modern, digital solutions in complex environments, in a startup, or for very large user communities, we’d love to hear from you as we are actively seeking team members with these backgrounds who can dive into our current projects. 
+If you have significant hands-on experience delivering modern, digital solutions in complex environments, in a startup, or for very large user communities, we’d love to hear from you as we are actively seeking team members with these backgrounds who can dive into our current projects. 
 
 In your role, you will immediately join one of our project teams to shape our understanding of the problem and begin to deliver solutions that will have a meaningful impact on New Jerseyans. The areas we cover will expand over time and currently include: creating tools to enable the public to participate in open policy making; providing services to the unemployed population of NJ; and improving the way entrepreneurs and business owners start, operate, and grow their businesses in the state (just figuring out what forms need to be submitted can be overwhelming). As a member of our startup in the NJ government, you will wear many hats and have the opportunity to shape our team and contribute to new initiatives as they get started. 
 
