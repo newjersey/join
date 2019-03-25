@@ -22,7 +22,7 @@ If you have significant hands-on experience delivering modern, digital solutions
 
 In your role, you will immediately join one of our project teams to shape our understanding of the problem and begin to deliver solutions that will have a meaningful impact on New Jerseyans. The areas we cover will expand over time and currently include: 
 - creating tools to enable the public to participate in open policy making
-- providing services to the unemployed population of NJ
+- making modern career services and digital tools available to support job seekers in identifying, preparing for, and obtaining family-sustaining jobs
 - improving the way entrepreneurs and business owners start, operate, and grow their businesses in the state (just figuring out what forms need to be submitted can be overwhelming)
 
 As a member of our startup in the NJ government, you will wear many hats and have the opportunity to shape our team and contribute to new initiatives as they get started. 
