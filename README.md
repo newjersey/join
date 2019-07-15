@@ -4,10 +4,6 @@
 ## How to reach us
 Email us at [hello@innovation.nj.gov](mailto:hello@innovation.nj.gov) - we look forward to hearing from you!
 
-## Current roles
-- [Senior UX/UI Designer and Researcher](https://careers-njeda.icims.com/jobs/1398/ux-ui-designer/job)
-- [Senior Software Engineer](https://careers-njeda.icims.com/jobs/1397/software-engineer/job)
-- [Senior Digital Product and Project Manager](https://careers-njeda.icims.com/jobs/1399/digital-product-manger/job)
 
 ## About us
 We launched the [New Jersey State Office of Innovation](https://nj.gov/governor/news/news/562018/approved/20180813a.shtml) and Lab in 2018 to build and deliver better services for the people of the state using human-centered, data-driven, and agile practices. Our team is made up of dedicated and energetic individuals with experience in civic tech and policy. We are passionate about transforming the way government operates, and we support State agencies in innovating and improving the lives of all New Jerseyans.
