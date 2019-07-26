@@ -39,7 +39,7 @@ You will be joining a small, cross-functional team that operates as a startup in
 
 ### Product Design 
 
-Product designers who are ready to roll up sleeves and run different parts of the design process. Designers lead end-to-end research planning and execution using modern practices and tools to arrive at key insights and solutions that can be iteratively developed by the team and tested with users. As part of the team, designers:
+Product designers who are ready to roll up sleeves and run different parts of the design process. Designers lead end-to-end research through execution of UX and UI using modern practices and tools to arrive at key insights and solutions that can be iteratively developed by the team and tested with users. As part of the team, designers:
 - Lead the end-to-end human-centered design and research process for a key project
 - Work with stakeholders to define the problem and create + execute a research plan 
 - Use both human-centered and data-driven research methodologies to generate insights and key learnings
