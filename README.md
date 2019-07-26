@@ -2,7 +2,10 @@
 *Join us if you’re excited to deliver modern services to improve the lives of all New Jerseyans!*
 
 ## How to reach us
-Email us at [hello@innovation.nj.gov](mailto:hello@innovation.nj.gov) - we look forward to hearing from you!
+
+**If you are interested in joining us, [apply here](https://hire.withgoogle.com/public/jobs/innovatenjorg/view/P_AAAAAACAALrPiNVAOnCVPi?trackingTag=njGithub)!**
+
+Email us at [hello@innovation.nj.gov](mailto:hello@innovation.nj.gov) with any questions.
 
 
 ## About us
