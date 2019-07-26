@@ -19,37 +19,35 @@ We encourage you to apply if you are excited to be an early member of our Lab wh
 
 If you have significant hands-on experience delivering modern, digital solutions in complex environments, in a startup, or for very large user communities, we’d love to hear from you as we are actively seeking team members with these backgrounds who can dive into our current projects. 
 
-In your role, you will immediately join one of our project teams to shape our understanding of the problem and begin to deliver solutions that will have a meaningful impact on New Jerseyans. The areas we cover will expand over time and currently include: 
+You will be joining a small, cross-functional team that operates as a startup in the NJ government and works closely together at every step. In your role, you will immediately join one of our project teams to shape our understanding of the problem and begin to deliver solutions that will have a meaningful impact for New Jerseyans. The areas we cover will expand over time and currently include: 
 - creating tools to enable the public to participate in open policy making
 - making modern career services and digital tools available to support job seekers in identifying, preparing for, and obtaining family-sustaining jobs
 - improving the way entrepreneurs and business owners start, operate, and grow their businesses in the state (just figuring out what forms need to be submitted can be overwhelming)
 
-As a member of our startup in the NJ government, you will wear many hats and have the opportunity to shape our team and contribute to new initiatives as they get started. 
+**Team members must:**
 
-**Team members should be prepared and excited to:**
-
-- Join a small, cross-functional team to deliver solutions that meet the needs of real people
-- Succeed in a highly ambiguous environment with little definition or structure
+- Navigate complex situations and highly ambiguous environments with little definition or structure
 - Maintain strong domain expertise in their own technical role while jumping into other roles as needed
 - Acknowledge and overcome constraints as they arise
 - Collaborate with stakeholders in domains beyond technology such as legal, policy, and administrative roles
 - Be committed and know how to develop metrics and experiments to test what works
 - Enable the long-term success of our partners throughout the state
-- Contribute to the overall development and success of the Office of Innovation and project team
-- Navigate complex situations to deliver meaningful, impactful results for users, stakeholders, and teammates 
+- Contribute to the overall development and success of the Office of Innovation and project teams
+- Deliver meaningful, impactful results for users, stakeholders, and teammates
 
 ## Roles
 
-### UX/UI Designer and Researcher Roles
-An experienced, nimble UX/UI designer and data-savvy researcher who is ready to roll up sleeves and run different parts of the design process. The designer will lead end-to-end research planning and execution using modern practices and tools to arrive at key insights and solutions that can be iteratively developed by the team and tested with users. As a part of the team, the designer will:
+### Product Design 
+
+Product designers who are ready to roll up sleeves and run different parts of the design process. Designers lead end-to-end research planning and execution using modern practices and tools to arrive at key insights and solutions that can be iteratively developed by the team and tested with users. As part of the team, designers:
 - Lead the end-to-end human-centered design and research process for a key project
 - Work with stakeholders to define the problem and create + execute a research plan 
 - Use both human-centered and data-driven research methodologies to generate insights and key learnings
-- Design visual aids such as mockups and wireframes of varying fidelity to share with team members, stakeholders and users
+- Design prototypes such as mockups and wireframes of varying fidelity to share with team members, stakeholders and users
 - Work closely with developers to bring designs to life and iteratively improve solutions
 
-### Software Engineering Roles
-A senior back-end and/or front-end software development engineer who can translate a concept into initial solutions for users. We are seeking software engineers with experience using modern languages and practices who are comfortable working in a startup environment where they will be involved in all aspects of software development. As part of the team, the engineer will:
+### Software Engineering
+Software development engineers with experience using modern languages and practices who can translate a concept into solutions for users.  Engineers are involved in all aspects of software development. As part of the team, engineers:
 - Lead the development and delivery of modern solutions that meet the needs of users for a key project
 - Work with designers and the team to translate findings and designs into product
 - Iteratively release new product that can be tested with users 
@@ -58,8 +56,8 @@ A senior back-end and/or front-end software development engineer who can transla
 - Provide counsel on technical matters in plain English to our team and stakeholders
 - Coordinate and work with in-house technical teams in agencies, including those who support legacy systems, to execute on development projects
 
-### Digital Product and Project Manager Roles
-A senior digital product and project manager who excels at leading cross-functional teams using data-driven decision making, human-centered design, agile methodologies, and modern practices. As part of the team, the digital product manager will:
+### Digital Product and Project Management
+Digital product and project managers who excel at leading cross-functional teams using data-driven decision making, human-centered design, agile methodologies, and modern practices. As part of the team, product managers:
 - Lead end-to-end product and project management activities to enable the delivery of modern solutions that meet the needs of users for a key project
 - Establish the project environment necessary to operate as a high performing cross-functional team in partnership with stakeholders
 - Develop and communicate the vision, strategy, and product roadmap 
